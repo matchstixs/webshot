@@ -44,15 +44,3 @@ https://www.youtube.com/watch?v=GjKQ6V_ViQE
 
 
 
-home improvement contractors lead automation
-llc
-
-
-bbb is a good site
-facebook - is key
-
-ha hunter
-
-updates at 12pm & 3pm
-50-100 calls day
-200 leads
