@@ -1,8 +1,6 @@
-#### Selenium Web Scraper Home Advisor scraper
+#### Selenium Web Scraper 
 
 #### WHAT IT DOES
-
-* scrap companies phone #, email, name
 
 * automate web activity 
 
@@ -19,8 +17,9 @@
     - Search Links
 
     - Data of Links [in-process]
-
-
+        * Phone #
+        * Email
+        * Name
 
 #### WHAT IT HELPS DO
 
@@ -39,8 +38,6 @@
 
 
 #### To do
-https://www.youtube.com/watch?v=GjKQ6V_ViQE
 
-
-
+-Grab data from links
 
