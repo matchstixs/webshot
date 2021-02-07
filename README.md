@@ -16,9 +16,9 @@
     - Search Titles
     - Search Links
 
-    - Data of Links [in-process]
+    - Data of Links 
         * Phone #
-        * Email
+        * Email [in-process]
         * Name
 
 #### WHAT IT HELPS DO
@@ -40,4 +40,3 @@
 #### To do
 
 -Grab data from links
-
